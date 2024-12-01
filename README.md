@@ -2,7 +2,7 @@
 데이터베이스 공부 정리
 
 ## 1단계: DB 기초 이해
-- DB의 개념
+- [DB 개념](https://github.com/Han00903/database/blob/main/Database%20%EA%B0%9C%EB%85%90)
 - SQL 기본
 - 테이블 구조
 - 데이터 모델링 개념
