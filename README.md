@@ -24,3 +24,4 @@
 ## 4단계: 비관계형 데이터베이스(NoSQL)
 - NOSQL 개념
 - 대표적인 NOSQL(Redis, MongoDB, Cassandra)
+  - [Redis](https://github.com/Han00903/database/blob/main/Redis%20%EC%A0%95%EB%A6%AC)
